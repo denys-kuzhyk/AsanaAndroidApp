@@ -1,5 +1,7 @@
 # AsanaAndroidApp
 
+Before reading this file, please take a look at the [Project Overview](https://github.com/denys-kuzhyk/AsanaBackend/blob/master/ProjectOverview.md).
+
 Android front-end client for the Asana-style task management backend  
 ([AsanaBackend](https://github.com/denys-kuzhyk/AsanaBackend)).
 
